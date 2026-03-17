@@ -1,5 +1,3 @@
-using Universitetssystem;
-
 List<Kurs> kursListe = new List<Kurs>();
 List<Student> studentListe = new List<Student>();
 List<Bibliotek> bokListe = new List<Bibliotek>

@@ -1,0 +1,15 @@
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.AssemblyInfoInputs.cache
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.AssemblyInfo.cs
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.csproj.CoreCompileInputs.cache
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.sourcelink.json
+/Users/victorimanuel/Documents/github/Universitetssystem/bin/Debug/net8.0/Universitetssysten
+/Users/victorimanuel/Documents/github/Universitetssystem/bin/Debug/net8.0/Universitetssysten.deps.json
+/Users/victorimanuel/Documents/github/Universitetssystem/bin/Debug/net8.0/Universitetssysten.runtimeconfig.json
+/Users/victorimanuel/Documents/github/Universitetssystem/bin/Debug/net8.0/Universitetssysten.dll
+/Users/victorimanuel/Documents/github/Universitetssystem/bin/Debug/net8.0/Universitetssysten.pdb
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.dll
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/refint/Universitetssysten.dll
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.pdb
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/Universitetssysten.genruntimeconfig.cache
+/Users/victorimanuel/Documents/github/Universitetssystem/obj/Debug/net8.0/ref/Universitetssysten.dll

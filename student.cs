@@ -9,4 +9,12 @@ public class Student
     public string epost { get; set; }
 
     public List<Kurs> kurs { get; set; }
+
+    public Student(int id, string fornavn, string epost)
+    {
+        this.id = id;
+        this.fornavn = fornavn;
+        this.epost = epost;
+        this.kurs = new List<Kurs>();
+    }
 }

@@ -10,7 +10,7 @@ public class Kurs
     public int antallPlasser { get; set; }
 
 
-    public void meldPaa(student s)
+    public void meldPaa(Student s)
     {
         if (antallPlasser > 0)
         {
@@ -28,7 +28,7 @@ public class Kurs
     }
 
 
-    public void meldAv(student s)
+    public void meldAv(Student s)
     {
         if (s.kurs.Contains(this))
         {
